@@ -1,17 +1,3 @@
-hello skiddiee
-hello skiddiee
-hello skiddiee
-hello skiddiee
-hello skiddiee
-hello skiddiee
-hello skiddiee
-hello skiddiee
-hello skiddiee
-hello skiddiee
-hello skiddiee
-hello skiddiee 
-hello skiddiee
-hello skiddiee
 // src/components/Hero.jsx
 import { Link } from "react-router-dom";
 

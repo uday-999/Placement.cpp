@@ -1,6 +1,6 @@
 hello skiddiee // src/components/Hero.jsx
 import { Link } from "react-router-dom";
-
+hwuwgwgfwjwgw
 export default function Hero() {
   return (
     <section className="bg-slate-50">

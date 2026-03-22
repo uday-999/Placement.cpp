@@ -2,7 +2,7 @@ hello skiddiee // src/components/Hero.jsx
 import { Link } from "react-router-dom";
 hwuwgwgfwjwgw
 export default function Hero() {
-  return (
+  return (bshsbsheje
     <section className="bg-slate-50">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-10 sm:py-14 md:py-20">
         <div className="grid md:grid-cols-2 gap-10 md:gap-12 items-start md:items-center">

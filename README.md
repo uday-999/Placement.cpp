@@ -5,8 +5,7 @@ export default function Hero() {
   return (bshsbsheje
     <section className="bg-slate-50">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-10 sm:py-14 md:py-20">
-        <div className="grid md:grid-cols-2 gap-10 md:gap-12 items-start md:items-center">
-          
+        <div className="grid md:grid-cols-2 gap-10 md:gap-12 items-start md:items- i just wanted to say that i am here to share my thoughts with you on the left content div classname text business loans         
           {/* LEFT CONTENT */}
           <div>
             <p className="text-[11px] sm:text-sm font-semibold tracking-[0.28em] text-blue-500 mb-3">

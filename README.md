@@ -1,4 +1,4 @@
-drdyrftfgtfqqqqqqqqqhsisvsisvsisvsjgssisgsksybssfsuscshscsh// src/components/Hero.jsx ch sgshsushsusbs
+ebsuvsosvssifssusjshssbsdrdyrftfgtfqqqqqqqqqhsisvsisvsisvsjgssisgsksybssfsuscshscsh// src/components/Hero.jsx ch sgshsushsusbs
 import { Link } from "react-router-dom";
 hwuwgwgfwjwgw
 export default function Hero() {

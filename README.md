@@ -1,14 +1,4 @@
-gwuwgwisvsisfshsvsksgskeghello sir 
-uday from this side
-jhuiyuhjkhutuyhjkyutyuhuiy
-
-jhhyjyjbghgvhgbhbhgvtghbjhgvhbhgvhgvbbhgbhjgvhbbhvhbhbhnhgjvhbghvhbbh
-
-
-i am here 
-skiddiee here
-eqwrwenrjnfwegsdrgjhwesgyrdfghsedvhfwetgscht6edchksdgfg6fcdbjhfgtygfjhgrfty
-cggjtfguguuheishsudgeiehhsgsisvsksvsnsvsbkcydhfuvsisvsisvsisbsjshsebsuvsosvssifssusjshssbsdrdyrftfgtfqqqqqqqqqhsisvsisvsisvsjgssisgsksybssfsuscshscsh// src/components/Hero.jsx ch sgshsushsusbs
+// src/components/Hero.jsx ch sgshsushsusbs
 import { Link } from "react-router-dom";
 hwuwgwgfwjwgw
 export default function Hero() {

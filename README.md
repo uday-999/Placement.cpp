@@ -1,3 +1,9 @@
+lexi server
+servers
+in row
+in column
+in tables
+in patterns
 hello
 fgfguhhjyhjvsieveiebfqhqdqjwfwhwgwj1234567890
 heuehejeh

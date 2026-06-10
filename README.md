@@ -1,4 +1,4 @@
-lexi server
+qlexi server
 servers
 in row
 in column

@@ -1,18 +1,4 @@
-gygcgfhgdusyssihewwdsavhhjnihjthgguhhhgsusshhbvgrtgyuqhwuwhqiquwbvvgchwhw8whbyfjgjhdfjhdsfevw8wgwjgdshgfhtfrrdctixifx8tx8tc8tc9drertggttgausvshgtvhffgfufrghgsusgajagctfgyggwhwvwjehwjwggyyyhfwiwgwiwygeuwecwhegyftfhj
-ewfsertgr
-hweheue
-12345678910
-dufggdg1234567891099qlexi server
-servers
-in row
-in column
-in tables
-in patterns
-hello
-fgfguhhjyhjvsieveiebfqhqdqjwfwhwgwj1234567890
-heuehejeh
-hello
-hi yghggufwuwvwiwvqnbdefhstyhfsdfyhgtfyfhgm,nkjhjbjhhvgbbjkhyjghjbnhhjghhgvbhghgghughgygjgjigjuhvgq// src/components/Hero.jsx
+src/components/Hero.jsx
 import { Link } from "react-router-dom";
 hwuwgwgfwjwgw
 export default function Hero() {

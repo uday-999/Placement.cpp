@@ -1,4 +1,5 @@
 src/components/Hero.jsx
+important 
 import { Link } from "react-router-dom";
 hwuwgwgfwjwgw
 export default function Hero() {
